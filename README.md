@@ -11,5 +11,5 @@
 ![안드로이드 메인 테스트](https://user-images.githubusercontent.com/77481265/106556328-9f5ffb00-6562-11eb-9973-960153f1e852.JPG)
  
 ---
->
+>실행
 <center><img src="https://user-images.githubusercontent.com/77481265/106556487-0c739080-6563-11eb-8dfe-3413a07f123b.JPG" width="450" height="650"></center>
