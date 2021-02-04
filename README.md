@@ -33,5 +33,8 @@
 ### + D-27 __"생활코딩" 나만의 앱 강의 시청__  
  
  ###### -열심히 유튜브에서 찾았을 땐 안나오던 강의를 찾았다. 심봤다!!!!!!!! 강의를 들어보겠다.  
-   [강의보러가기](https://www.opentutorials.org/course/3930/26666)
+   [강의보러가기](https://www.opentutorials.org/course/3930/26666)  
+ >14-2강 따라해보기
+   ![14-2강 나만의 앱 만들기](https://user-images.githubusercontent.com/77481265/106848405-44f6a400-66f4-11eb-9e2a-042d6b75b965.JPG)
+
   
