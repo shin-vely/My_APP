@@ -71,14 +71,13 @@
    
    ![아마존](https://user-images.githubusercontent.com/77481265/107114832-45d23600-68ac-11eb-89a9-a1e1d7387734.png)   
   
-  ###### -스프링부트 로컬 서버 접속 확인  
-    
-    
-    
-  <center><img src="https://user-images.githubusercontent.com/77481265/107114891-8e89ef00-68ac-11eb-8eac-6ba0ec904484.JPG" width="50%" height="50%"></center>  
-  
-  
   ###### -hello api까지 연결! (휴대폰 앱 접속 시 서버 연결)  
+  ###### -스프링부트 로컬 서버 접속 확인  
+  
+    
+   ![hello](https://user-images.githubusercontent.com/77481265/107123009-86e33e00-68de-11eb-9b9b-5fd9b2444052.png)  
+  <center><img src="https://user-images.githubusercontent.com/77481265/107114891-8e89ef00-68ac-11eb-8eac-6ba0ec904484.JPG" width="50%" height="50%"></center>  
+   
   
 
   
