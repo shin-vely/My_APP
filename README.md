@@ -68,12 +68,14 @@
   ###### -그래서 '코틀린으로 쇼핑몰 앱 만들기' 책에 나와있는 개발환경 JDK8, IntelliJ IDEA, Android Studio 3.X, MySQL 재설치후 버전을 맞췄다.  
   ###### -그 다음 데이터베이스 인스턴스 생성! 아마존 데이터베이스인 Amazon RDS를 사용.  
     
-    ![image](https://user-images.githubusercontent.com/77481265/107114832-45d23600-68ac-11eb-89a9-a1e1d7387734.png)   
+   
+   ![아마존](https://user-images.githubusercontent.com/77481265/107114832-45d23600-68ac-11eb-89a9-a1e1d7387734.png)   
   
   ###### -스프링부트 로컬 서버 접속 확인  
     
     
-    ![11](https://user-images.githubusercontent.com/77481265/107114891-8e89ef00-68ac-11eb-8eac-6ba0ec904484.JPG)  
+    
+   ![스프링부트](https://user-images.githubusercontent.com/77481265/107114891-8e89ef00-68ac-11eb-8eac-6ba0ec904484.JPG)  
   
   
   ###### -hello api까지 연결! (휴대폰 앱 접속 시 서버 연결)  
