@@ -75,7 +75,7 @@
     
     
     
-   ![스프링부트](https://user-images.githubusercontent.com/77481265/107114891-8e89ef00-68ac-11eb-8eac-6ba0ec904484.JPG)  
+  <center><img src="https://user-images.githubusercontent.com/77481265/107114891-8e89ef00-68ac-11eb-8eac-6ba0ec904484.JPG" width="50%" height="50%"></center>  
   
   
   ###### -hello api까지 연결! (휴대폰 앱 접속 시 서버 연결)  
