@@ -93,7 +93,7 @@
    [교보문고링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791196918033)  
     
     
-   <center><img src=  "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791196918033" width="50%" height="50%"></center>  
+   <center><img src= "https://user-images.githubusercontent.com/77481265/107173557-606ef100-6a0b-11eb-84a4-783215770816.jpg" width="50%" height="50%"></center>  
    
   
    ###### -오늘 하루의 마무리 ! 이번엔 트위치와 아프리카를 연동해서 동시에 방송했다 너무 신기하다!  
