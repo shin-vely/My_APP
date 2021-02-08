@@ -91,8 +91,9 @@
    ###### -오늘은 여기까지! 좋은 책이 생겼다 읽으면서 편안한 마음 가지기! (비전공자들을 위한 이해할 수 있는 IT 지식) 이 책 추천합니다 뭐가 뭔지 아무고토 모르는 저에게 많은 지식을 주었어요 감사합니다!!!!  
      
    [교보문고링크](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791196918033)  
-     
-   ![책사진](https://user-images.githubusercontent.com/77481265/107173557-606ef100-6a0b-11eb-84a4-783215770816.jpg)  
+    
+    
+   <center><img src=  "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791196918033" width="50%" height="50%"></center>  
    
   
    ###### -오늘 하루의 마무리 ! 이번엔 트위치와 아프리카를 연동해서 동시에 방송했다 너무 신기하다!  
