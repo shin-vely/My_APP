@@ -106,7 +106,12 @@
      
    ![바보짓1](https://user-images.githubusercontent.com/77481265/107166015-1d575280-69f8-11eb-92f6-37f81c2ba24d.png)  
      
+   ###### -첫 UI만들기  
+    
+   ![카페담아 UI](https://user-images.githubusercontent.com/77481265/107184503-09c1e100-6a24-11eb-876c-ded6b6d12af9.JPG)  
+    
    ###### -
+
 
   
    
