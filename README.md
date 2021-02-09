@@ -116,9 +116,7 @@
   
   ![또또오류!!!](https://user-images.githubusercontent.com/77481265/107320073-54eef900-6ae3-11eb-8753-ee31a1ffecd5.JPG)  
     
-   
-
-
+   ###### -자꾸 MYSQL도 오류나길래 삭제하고 다시 설치하기로 했다.
   
    
 
