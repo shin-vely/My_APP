@@ -110,7 +110,13 @@
     
    ![카페담아 UI](https://user-images.githubusercontent.com/77481265/107184503-09c1e100-6a24-11eb-876c-ded6b6d12af9.JPG)  
     
-   ###### -
+  ### D-22 API 호출 오류  
+    
+   ###### -아 또 오류다...ㅎr..쉽게 넘어가는 법이 없다.  
+  
+  ![또또오류!!!](https://user-images.githubusercontent.com/77481265/107320073-54eef900-6ae3-11eb-8753-ee31a1ffecd5.JPG)  
+    
+   
 
 
   
