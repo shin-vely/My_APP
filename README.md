@@ -165,8 +165,9 @@
    
    ###### -와 진짜 눈물나와서 울었다 드뎌 성공했다 삽질이 먹혔다.  
      
-   ![성공](https://user-images.githubusercontent.com/77481265/108332949-b7e33d00-7213-11eb-8937-4329181343c6.JPG)  
-     
+   ![성공](https://user-images.githubusercontent.com/77481265/108333451-4b1c7280-7214-11eb-8b45-9cec3acc04a7.JPG)  
+   
+
    ###### -이제 안드로이드 스튜디오 다시!
 
    
